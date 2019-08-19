@@ -5,6 +5,7 @@ import java.util.LinkedHashMap;
 import java.util.Map;
 import java.util.Map.Entry;
 
+// BellMan Ford
 public class BellmanFord {
 	static Map<Integer, Integer> distance=new LinkedHashMap<>();
 	static Map<Integer, Integer> parent=new LinkedHashMap<>();
